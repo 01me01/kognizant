@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import {getAuth} from "firebase/auth";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBtzWZFEBMRRCuZTBxRnOEalExtKuZWfEI",
+    apiKey: " ",
     authDomain: "kognizant-b4d57.firebaseapp.com",
     projectId: "kognizant-b4d57",
     storageBucket: "kognizant-b4d57.appspot.com",
