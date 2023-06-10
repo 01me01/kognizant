@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+}
+.maincard{
+    border: 1cm solid black;
+    display: flex;
+    align-items: center;
+}
+
